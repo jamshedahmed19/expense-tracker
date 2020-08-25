@@ -6,6 +6,7 @@ import {
   createMuiTheme,
   ThemeProvider,
 } from "@material-ui/core/styles";
+import serviceWorker from './serviceWorker';
 
 const theme = createMuiTheme({
   typography: {
@@ -28,3 +29,5 @@ ReactDOM.render(
   </ThemeProvider>,
   document.getElementById("root")
 );
+
+serviceWorker;
