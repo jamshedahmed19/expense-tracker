@@ -1,6 +1,6 @@
 ## PIAIC Bootcamp 2020 Project 01: Expense Tracker
 
-Expense Tracker App with React, React Hooks with context API, and Material UI
+Expense Tracker App with React, React Hooks with context API, and Material UI and setup github actions to continuous deployment to surge
 
 ## FEATURES
 
